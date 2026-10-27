@@ -1,0 +1,5 @@
+aiogram>=3.7,<4.0
+SQLAlchemy>=2.0,<2.1
+aiosqlite>=0.19
+asyncpg>=0.29
+tzdata>=2024.1
